@@ -1,1 +1,1 @@
-# teleplayer-bot-api
+# wackypedia-api
